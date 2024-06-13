@@ -1,12 +1,12 @@
 #!/bin/bash
 function filter(){
-echo "Welcome to Firewall Filter Tool"
+echo "Welcome to Packet Filter Tool"
 
 while true
 	do
 		echo
 		echo "########################################################################################"
-		echo "Firewall Filter type-"
+		echo "Packet Filter type-"
 		echo "1)  Reject SYN Scan"
 		echo "2)  Reject FIN Scan"
 		echo "3)  Reject NULL Scan"
