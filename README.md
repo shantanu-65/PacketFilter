@@ -34,7 +34,7 @@ Kali Linux
 9) Reject Stealth scan - reject this scan that does not create a log on the destination device.
 
 # Installing
-https://github.com/shantanu-65/PacketFilter
+git clone https://github.com/shantanu-65/PacketFilter
 
 cd PacketFilter
 
