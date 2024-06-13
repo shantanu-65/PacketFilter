@@ -9,6 +9,7 @@ Inspecting and filtering network traffic based on a set of rules. These rules de
 
 # This Tool Tested on:
 Ubuntu
+
 Kali Linux
 
 ![Firewallfilter1](https://github.com/shantanu-65/PacketFilter/assets/172571474/a15fea74-049c-4970-9b13-f4b75c242038)
@@ -34,7 +35,9 @@ Kali Linux
 
 # Installing
 https://github.com/shantanu-65/PacketFilter
+
 cd PacketFilter
+
 bash pfilter.sh
 
 PacketFilter is created to help in penetration testing and it is not responsible for any misuse or illegal purposes.
