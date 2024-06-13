@@ -12,7 +12,8 @@ Ubuntu
 
 Kali Linux
 
-![Firewallfilter1](https://github.com/shantanu-65/PacketFilter/assets/172571474/a15fea74-049c-4970-9b13-f4b75c242038)
+![pfilter](https://github.com/shantanu-65/PacketFilter/assets/172571474/26c79f8d-a177-41f3-afde-631d2f9b4a9b)
+
 
 # Main Points
 1) Reject SYN scan - rejects the SYN flag packets which are used in TCP connection.
